@@ -38,10 +38,10 @@ Telegram ID необходим для того, чтобы вашим компь
 *3)* Напишите любое имя бота(пример: PC Tools) <br/>
 *4)* Напишите логин бота с окончанием на слово bot, советую писать рандомные символы(пример: nr9dsn6lsh_bot)<br/>
 *5)* Вы получите сообщение примера:<br/>
-* "Use this token to access the HTTP API:
-    1234567:ASDFGHJKLQWERTY
-    Keep your token secure and store it safely, it can be used by anyone to control your bot.
-    For a description of the Bot API, see this page: https://core.telegram.org/bots/api"<br/> *
+  *"Use this token to access the HTTP API:*
+    *1234567:ASDFGHJKLQWERTY*
+    *Keep your token secure and store it safely, it can be used by anyone to control your bot.*
+    *For a description of the Bot API, see this page: https://core.telegram.org/bots/api"*<br/>
 *6)* Нам необходимо скопировать API(1234567:ASDFGHJKLQWERTY)<br/>
 *7)* Переходим в созданного бота по ссылке из сообщения и нажимаем запустить<br/>
 *8)* Скачиваем с репозитория скрипт бота(PCToolsBot.py) и фaйл(install.txt)<br/>
