@@ -41,7 +41,7 @@ Telegram ID необходим для того, чтобы вашим компь
     *Keep your token secure and store it safely, it can be used by anyone to control your bot.*
     *For a description of the Bot API, see this page: https://core.telegram.org/bots/api"*<br/>
 *6)* Нам необходимо скопировать API(1234567:ASDFGHJKLQWERTY)<br/>
-*7)* Переходим в созданного бота по ссылке из сообщения и нажимаем запустить<br/>
+*7)* Переходим в созданного бота в телеграмме по ссылке из сообщения и нажимаем запустить<br/>
 *8)* Скачиваем с репозитория скрипт бота(PCToolsBot.py) и фaйл(install.txt)<br/>
 *9)* Переходим на офф. сайт https://www.python.org/downloads/ и скачиваем установщик python<br/>
 *10)* Открываем установщик и устанавливаем обязательно поставив галочку на пункте add to path<br/>
