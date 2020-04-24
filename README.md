@@ -51,7 +51,7 @@ Telegram ID необходим для того, чтобы вашим компь
 *14)* Вписываем в поле bot_token API бота который мы скопировали<br/>
 *15)* Вписываем в поле my_id ваш TELEGRAM ID(Можно у знать у бота @userinfobot (t.me/userinfobot))<br/>
 *16)* Сохраняем файл и переходим обратно в консоль<br/>
-*17)* пишем cd путь директории где лежит файл PCToolsBot.py<br/>
+*17)* пишем cd путь директории где лежит файл PCToolsBot.py (cd C:\download)<br/>
 *18)* Пишем в консоли pyinstaller -w -F PCToolsBot.py<br/>
 *19)* Перемещаем из папки dist exe-шник в удобну нам папку, создаем ярлык exe-шника<br/>
 *20)* Кидаем ярлык в C:\Users\Username\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup<br/>
