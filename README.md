@@ -33,27 +33,27 @@ Telegram ID необходим для того, чтобы вашим компь
 
 
 ## Пошаговая Инструкция
-*1)* Перейдите в телеграм и напишите @BotFather (t.me/BotFather)
-*2)* Напишите команду /newbot в @BotFather
-*3)* Напишите любое имя бота(пример: PC Tools) 
-*4)* Напишите логин бота с окончанием на слово bot, советую писать рандомные символы(пример: nr9dsn6lsh_bot)
-*5)*Вы получите сообщение примера:<br/>
+*1)* Перейдите в телеграм и напишите @BotFather (t.me/BotFather)<br/>
+*2)* Напишите команду /newbot в @BotFather<br/>
+*3)* Напишите любое имя бота(пример: PC Tools) <br/>
+*4)* Напишите логин бота с окончанием на слово bot, советую писать рандомные символы(пример: nr9dsn6lsh_bot)<br/>
+*5)*Вы получите сообщение примера:<br/><br/>
  "Use this token to access the HTTP API:
     1234567:ASDFGHJKLQWERTY
     Keep your token secure and store it safely, it can be used by anyone to control your bot.
     For a description of the Bot API, see this page: https://core.telegram.org/bots/api"<br/>
-*6)* Нам необходимо скопировать API(1234567:ASDFGHJKLQWERTY)
-*7)* Переходим в созданного бота по ссылке из сообщения и нажимаем запустить
-*8)* Скачиваем с репозитория скрипт бота(PCToolsBot.py) и фaйл(install.txt)
-*9)* Переходим на офф. сайт https://www.python.org/downloads/ и скачиваем установщик python
-*10)* Открываем установщик и устанавливаем обязательно поставив галочку на пункте add to path
-*11)* Запускаем cmd(Win + R и вписываем cmd) 
-*12)* Пишем в cmd pip install -r путь до файла install.txt (пример: pip install -r C:\download\install.txt)
-*13)* Открываем через любой текстовый редактор PCToolsBot.py
-*14)* Вписываем в поле bot_token API бота который мы скопировали
-*15)* Вписываем в поле my_id ваш TELEGRAM ID(Можно у знать у бота @userinfobot (t.me/userinfobot))
-*16)* Сохраняем файл и переходим обратно в консоль
-*17)* пишем cd путь директории где лежит файл PCToolsBot.py
-*18)* Пишем в консоли pyinstaller -w -F PCToolsBot.py
-*19)* Перемещаем из папки dist exe-шник в удобну нам папку, создаем ярлык exe-шника
-*20)* Кидаем ярлык в C:\Users\Username\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
+*6)* Нам необходимо скопировать API(1234567:ASDFGHJKLQWERTY)<br/>
+*7)* Переходим в созданного бота по ссылке из сообщения и нажимаем запустить<br/>
+*8)* Скачиваем с репозитория скрипт бота(PCToolsBot.py) и фaйл(install.txt)<br/>
+*9)* Переходим на офф. сайт https://www.python.org/downloads/ и скачиваем установщик python<br/>
+*10)* Открываем установщик и устанавливаем обязательно поставив галочку на пункте add to path<br/>
+*11)* Запускаем cmd(Win + R и вписываем cmd) <br/>
+*12)* Пишем в cmd pip install -r путь до файла install.txt (пример: pip install -r C:\download\install.txt)<br/>
+*13)* Открываем через любой текстовый редактор PCToolsBot.py<br/>
+*14)* Вписываем в поле bot_token API бота который мы скопировали<br/>
+*15)* Вписываем в поле my_id ваш TELEGRAM ID(Можно у знать у бота @userinfobot (t.me/userinfobot))<br/>
+*16)* Сохраняем файл и переходим обратно в консоль<br/>
+*17)* пишем cd путь директории где лежит файл PCToolsBot.py<br/>
+*18)* Пишем в консоли pyinstaller -w -F PCToolsBot.py<br/>
+*19)* Перемещаем из папки dist exe-шник в удобну нам папку, создаем ярлык exe-шника<br/>
+*20)* Кидаем ярлык в C:\Users\Username\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup<br/>
