@@ -1,5 +1,0 @@
-pyTelegramBotAPI
-mouse
-Pillow
-pySmartDL
-PyInstaller
